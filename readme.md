@@ -1,5 +1,8 @@
 # OpenAI Voice Chatbot
 
+
+[Youtube Video Tutorial](https://www.youtube.com/watch?v=)
+
 Create Voice chat bot to play word association game using OpenAI whisper model with streamlit as frontend.
 This is a simple voice chatbot that uses OpenAI's GPT-40-mini to generate responses to user input.
 The chatbot uses the `openai` Python library to interact with the GPT-4o-mini API.
